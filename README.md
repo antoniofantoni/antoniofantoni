@@ -7,7 +7,7 @@
                  Se inscreva no meu canal do Youtube!
             </li>
             <li>
-                <img src="./redessociais/instagram.png" alt=instagram id="icones">
+                ![instagram](https://user-images.githubusercontent.com/94508080/189646912-650ccd0a-a747-4844-ba80-5ee227366f8b.png)
                 <a href="https://www.instagram.com/davifantonioficial/">davifantonioficial</a> 
                 Me siga no Instagram!
             </li>
